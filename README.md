@@ -9,9 +9,9 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _La muerte del campo granadino______
+**Titulo** : La muerte del campo granadino
 
-**Autor(es)** _Natalia Ruiz Carmona, Sergio García Sánchez___
+**Autor(es)** Natalia Ruiz Carmona, Sergio García Martos
 
 **Resumen** : _________
 
